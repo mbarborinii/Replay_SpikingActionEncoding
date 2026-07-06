@@ -37,3 +37,8 @@
 2026-07-06 17:28:34 - generic_experiment - INFO - Epoch 1/1: Loss = 0.618441  Spikes = 15699815.0
 2026-07-06 17:28:34 - generic_experiment - INFO - Results saved to Results/INHEXC_1306/generic_experiment/models/INHEXC_1306_test_results.npz
 2026-07-06 17:28:34 - generic_experiment - INFO - Rasters saved to Results/INHEXC_1306/generic_experiment/models/INHEXC_1306_test_results_rasters.npz
+2026-07-06 18:07:52 - generic_experiment - INFO - Experiment created: Results/INHEXC_1306/generic_experiment
+2026-07-06 18:07:55 - generic_experiment - INFO - Teaching percentage: 0.50
+2026-07-06 18:08:18 - generic_experiment - INFO - Epoch 1/1: Loss = 0.618441  Spikes = 15699815.0
+2026-07-06 18:08:18 - generic_experiment - INFO - Results saved to Results/INHEXC_1306/generic_experiment/models/INHEXC_1306_test_results.npz
+2026-07-06 18:08:18 - generic_experiment - INFO - Rasters saved to Results/INHEXC_1306/generic_experiment/models/INHEXC_1306_test_results_rasters.npz
